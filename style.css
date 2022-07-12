@@ -1,0 +1,58 @@
+.container{
+    padding:10px 10px 10px 10px;
+    background-color: black;
+    width: auto;
+    height: 20%;
+    border: solid 2px black;
+    border-radius: 3px;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+#submit_note{
+    background-color: blue;
+    border: solid 1px blue;
+    border-radius: 3px;
+}
+#title{
+    width: 100%;
+
+}
+#contant{
+    width: 100%;
+}
+
+
+
+.doc{
+    background-color: black;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    margin: 1px 1px 1px 1px;
+    border: solid 1px black ;
+    border-radius: 5px;
+}
+
+.delete{
+ width: auto;
+ background-color: red;
+border: 2px solid red;
+border-radius: 5px;
+text-align: center;
+}
+.edit{
+width: auto;
+background-color: Green;
+border: 2px solid green;
+border-radius: 5px;
+text-align: center;
+}
+body{
+    background: url(http://wallpapers.net/web/wallpapers/spot-light-background-hd-wallpaper/thumbnail/lg.jpg) no-repeat center center fixed; 
+    background-size: cover;
+  }
+
